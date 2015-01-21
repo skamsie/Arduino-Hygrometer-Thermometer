@@ -7,18 +7,18 @@ This repository includes the program and schematic for building a standalone tem
 - arduino uno
 - temperature sensor MaxDetect RHT03
 - arduino 1.8" TFT screen
-- 2 mini breadboards (the green ones under the screen)
+- 2 mini breadboards
 - a lot of cables
 - 10 kOhm potentiometer
 - 9V Energizer battery
-- one 10k OHM resistors
+- one 10k OHM resistor
 
 <strong>Optional:</strong>
 
 - silver knob
 - the case is 'Box für Arduino' bought from a german company named Flikto
 
-<strong>Schematics</strong> (created with [Fritzing](http://fritzing.org/home/)). It's kind of messy as I wanted to fit everything on to mini breadboards a small plastic box.<br /><br />
+<strong>Schematics</strong> (created with [Fritzing](http://fritzing.org/home/)). It's kind of messy as I wanted to fit everything on two mini breadboards a small plastic box.<br /><br />
 
 <img src=https://github.com/skamsie/Arduino-Hygrometer-Thermometer/blob/master/schema_big_compressed.png></img>
 
