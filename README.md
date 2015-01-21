@@ -18,7 +18,7 @@ This repository includes the program and schematic for building a standalone tem
 - silver knob
 - the case is 'Box für Arduino' bought from a german company named Flikto
 
-<strong>Schematics</strong> (created with [Fritzing](http://fritzing.org/home/)). It's kind of messy as I wanted to fit everything on two mini breadboards a small plastic box.<br /><br />
+<strong>Schematics</strong> (created with [Fritzing](http://fritzing.org/home/)). It's kind of messy as I wanted to fit everything on two mini breadboards and a small plastic box.<br /><br />
 
 <img src=https://github.com/skamsie/Arduino-Hygrometer-Thermometer/blob/master/schema_big_compressed.png></img>
 
