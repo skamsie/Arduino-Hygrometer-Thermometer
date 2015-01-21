@@ -30,7 +30,7 @@ DHT.h // Sensor library</pre>
 
 <strong>Other:</strong>
 <br />
-I have used the Arduino 1.8" TFT display but the schematics shows an Adafruit ST7735R display as I could not find that Fritzing part for the schematic. They are almost the same, only the BL and VCC connectors are switched, but it does not really matter since the both go to 5V.
+I have used the Arduino 1.8" TFT display but the schematics shows an Adafruit ST7735R display as I could not find that Fritzing part for the schematic. They are almost the same, only the BL and VCC connectors are switched, but it does not really matter since they both go to 5V.
 
 <br />
 To sync the time with the computer (Mac, Linux):
